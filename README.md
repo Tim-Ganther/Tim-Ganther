@@ -5,23 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tim-ganther" alt="tim-ganther" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/404serge4nt" target="blank"><img src="https://img.shields.io/twitter/follow/404serge4nt?logo=twitter&style=for-the-badge" alt="404serge4nt" /></a> </p>
-
 - 🔭 I’m currently working on [Telekom Data Intelligence Hub](https://dih.telekom.com/en/)
-
-- 🌱 I’m currently learning **Serverless**
-
-- 👨‍💻 Some of my projects are available at [https://halfcross.de/portfolio/](https://halfcross.de/portfolio/)
 
 - 📝 I sometimes write articles on [https://dih.telekom.com/en/insights/](https://dih.telekom.com/en/insights/)
 
 - 💬 Ask me about **Webdevelopment, IT Architecture, Data Spaces, eSports, Gaming**
 
-- 📫 How to reach me **Tim.Ganther@dyn4mic.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/404serge4nt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="404serge4nt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tim-ganther" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tim-ganther" height="30" width="40" /></a>
 </p>
 
